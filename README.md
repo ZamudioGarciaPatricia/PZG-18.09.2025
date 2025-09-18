@@ -1,8 +1,6 @@
 # PZG-18.09.2025
-Un proyecto de ejemplo para aprender git y github
-
-
-**Mi primer repositorio de github** 
+# Mi primer repositorio de github
+#### Un proyecto de ejemplo para aprender git y github
 
 _Datos personales_ 
 
