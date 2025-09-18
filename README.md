@@ -1,8 +1,8 @@
 # PZG-18.09.2025
 # Mi primer repositorio de github
-### Un proyecto de ejemplo para aprender git y github
+## Un proyecto de ejemplo para aprender git y github
 
-#### Datos personales 
+### Datos personales 
 
 _Nombre:Patricia Zamudio Garcia_
 
