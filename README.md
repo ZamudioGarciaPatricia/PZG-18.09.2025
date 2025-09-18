@@ -14,4 +14,4 @@ _Especialidad:Programacion_
 
 _Gmail: 24308060610116@cetis61.edu.mx_
 
-![Imegan de mi persona]()
+![Imegan de mi persona](https://github.com/ZamudioGarciaPatricia/PZG-18.09.2025/blob/main/WhatsApp%20Image%202025-09-17%20at%203.47.24%20PM.jpeg)
